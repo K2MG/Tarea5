@@ -10,12 +10,11 @@ public class Cola {
 	       
 			System.out.println("COLA CON PILAS");
 
-			pila.push("uno");
-			pila.push("dos");
-			pila.push("tres");
-			pila.push("cuatro");
-			pila.push("cinco");
-			//pila.push("EJEMPLO");
+			pila.push("a");
+			pila.push("b");
+			pila.push("c");
+			pila.push("d");
+			pila.push("e");
 
 			
 			System.out.println("Ultimo dato ingresado"); 

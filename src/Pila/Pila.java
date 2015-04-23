@@ -16,11 +16,11 @@ public class Pila {
 	       salida = new Cola();
 			
 
-			cola.offer("uno");
-			cola.offer("dos");
-			cola.offer("tres");
-			cola.offer("cuatro");
-			cola.offer("cinco");
+			cola.offer("a");
+			cola.offer("b");
+			cola.offer("c");
+			cola.offer("d");
+			cola.offer("e");
 
 			System.out.println("Primer que ingresa"); 
 			System.out.println(cola.peek());
